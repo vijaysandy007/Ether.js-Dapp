@@ -5,6 +5,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
                       (And)
 npm i ethers or vist: https://www.npmjs.com/package/ethers
 
+## UseFull URL
+Ethereum DApp: 
+https://docs.ethers.io/v5/single-page/ official documentation
+https://ethereum.org/en/developers/tutorials/send-token-etherjs/ official ethereum documentation
+
+
 ## Important Send Transcation
 1.Smart contract abi with receipt ( if you want smart contract way you can use this)
 2.Comment [Send Transcation in static wallet address and amount (if you want dynamic wallet addrees and value means just pass the values both
