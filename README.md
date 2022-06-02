@@ -1,7 +1,8 @@
 # Etherjs
 
+## Installation 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.14.
-##Install Etherjs
+                      (And)
 npm i ethers or vist: https://www.npmjs.com/package/ethers
 
 ## Important Send Transcation
