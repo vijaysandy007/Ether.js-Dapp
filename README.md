@@ -1,14 +1,17 @@
 # Etherjs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.14.
+##Install Etherjs
+npm i ethers or vist: https://www.npmjs.com/package/ethers
+
+## Important Send Transcation
+1.Smart contract abi with receipt ( if you want smart contract way you can use this)
+2.Comment [Send Transcation in static wallet address and amount (if you want dynamic wallet addrees and value means just pass the values both
+of the paranthese)]
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
